@@ -1,0 +1,2 @@
+MUST SETUP CONDA, python, and pytorch, and use jupiter notebook to run, unless there is an alternative to run the ipynb files. 
+NO other major setup required to run the ipynb files, although CUDA is preferred.
