@@ -1,0 +1,4 @@
+Part 1: I was able to follow the skeleton code that guided me in using the VGG-19 CNN to apply the Image Style Transfer, detailed in the paper by Leon A. Gatys, Alexander S. Ecker, and Matthias Bethge. I was able to understand how to use the pytorch libraries to
+flatten the input and transpose to calculate the Gram-matrices used for texture feature extraction. My end result looks a little stranger than I anticipated, and I included the first result so far.
+
+Part 2
