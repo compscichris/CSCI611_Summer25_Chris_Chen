@@ -1,2 +1,6 @@
 To use this, you will need to have the pictures in the same directory as the notebook files, and the path name of the images
 need to be changed in the notebook files.
+
+BASE VERSION: look for file labeled second run
+
+editted version: look for *edit, that shows the tests I ran and changing of certain parameters in the NN.
